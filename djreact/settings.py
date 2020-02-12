@@ -25,7 +25,7 @@ SECRET_KEY = 't4%3(dkrn2)tyd48%d-@#*^7pk97%9563@0=-wg0$rk*=t0-b2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-react.herokuapp.com/']
+ALLOWED_HOSTS = ['django-react.herokuapp.com']
 
 
 # Application definition
